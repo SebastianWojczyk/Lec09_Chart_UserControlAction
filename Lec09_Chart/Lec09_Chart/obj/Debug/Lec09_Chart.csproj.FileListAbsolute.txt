@@ -1,0 +1,10 @@
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\bin\Debug\Lec09_Chart.exe.config
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\bin\Debug\Lec09_Chart.exe
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\bin\Debug\Lec09_Chart.pdb
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.Form1.resources
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.Properties.Resources.resources
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.csproj.GenerateResource.cache
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.csproj.CoreCompileInputs.cache
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.exe
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.pdb
+C:\Users\Wykładowca\source\repos\Lec09_Chart\Lec09_Chart\obj\Debug\Lec09_Chart.UserControlFunction.resources
